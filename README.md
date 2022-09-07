@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/quangnh-ai](https://github.com/quangnh-ai)
 
-- 📝 I regularly write articles on [https://meowai.herokuapp.com/](https://meowai.herokuapp.com/)
+- 📝 I regularly write articles on [https://nhameow.herokuapp.com/](https://nhameow.herokuapp.com/)
 
 - 💬 Ask me about **Python and Artificial Intelligence!**
 
