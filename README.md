@@ -1,5 +1,5 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, I'm Quang</h1>
-<h3 align="center">I am a AI Engineer graduate from the University of Information Technology. I have a greate passion about AI and I wish someday i will become Andrew Ng or Quoc Le Viet :D.</h3>
+<h3 align="center">I am a AI/Data Engineer graduate from the University of Information Technology. I have a greate passion about AI and I wish someday i will become Andrew Ng or Quoc Le Viet :D.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangnh-ai&label=Profile%20views&color=0e75b6&style=flat" alt="quangnh-ai" /> </p>
 
