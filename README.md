@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://nhameow.herokuapp.com/](https://nhameow.herokuapp.com/)
 
-- 💬 Ask me about **Python and Artificial Intelligence!**
+- 💬 Ask me about **Python, Artificial Intelligence And Data!**
 
 - 📫 How to reach me **quang009182@gmail.com**
 
