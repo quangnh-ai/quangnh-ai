@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangnh-ai" alt="thanh-hoo" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineer and AI Engineer**
+- 🌱 I’m currently working as **Data Engineer and AI Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/quangnh-ai](https://github.com/quangnh-ai)
 
